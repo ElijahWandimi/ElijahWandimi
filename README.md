@@ -11,7 +11,7 @@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ElijahWandimi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/elijahwandimi) 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahWandimi&layout=compact&theme=tokyonight)]()
 
 <!---
 ElijahWandimi/ElijahWandimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
