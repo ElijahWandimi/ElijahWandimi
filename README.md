@@ -23,27 +23,11 @@ Software engineer
 ---
 
 #### Languages and tools:
-Python, Java, SQL, C++, Go
+Python, Java, SQL
 
 Docker, Postman, Mongo, DataStudio, Excel, Tableau
 
 ##### some tools I've worked with on limited capacity (during undergrad) are: 
-Php, Typescript, C, Kotlin (android)
+Php, C++, android with Java
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ElijahWandimi&hide_border=true&show_icons=true&theme=radical&bg_color=00000000">
-<br/>
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahWandimi&layout=compact&hide_border=true&show_icons=true&theme=radical&bg_color=00000000)
- 
- ---
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElijahWandimi&layout=compact&theme=tokyonight)]()<br> -->
-
-<!---
-ElijahWandimi/ElijahWandimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ElijahWandimi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/elijahwandimi) 
---->
