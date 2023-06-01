@@ -27,7 +27,7 @@ Python, Java, SQL
 
 Docker, Postman, Mongo, DataStudio, Excel, Tableau
 
-##### some tools I've worked with on limited capacity (during undergrad) are: 
-Php, C++, android with Java
+> ##### some tools I've worked with on limited capacity (during undergrad) are: 
+> Php, C++, android with Java
 
 ---
