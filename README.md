@@ -22,8 +22,8 @@ response time by 3%. <br>
 
 ---
 #### Languages and tools:
-Python, Java, and SQL &emsp;-&emsp; Mongo, BigQuery, PostgresSql &emsp;|&emsp; DBT &emsp;|&emsp; Airflow, Mage.ai &emsp;|&emsp; Excel, Tableau, Looker, &emsp;|&emsp; Docker, <br>
-Spring and Spring Boot
+Python, Java, SQL &emsp;|&emsp; Mongo, BigQuery, PostgresSql &emsp;|&emsp; DBT &emsp;|&emsp; Apache Airflow, Mage.ai &emsp;|&emsp; Excel, Tableau, Looker, &emsp;|&emsp; Docker, &emsp;|&emsp;
+ Apache Spark &emsp;|&emsp; Spring, Spring Boot
 
 ---
 #### Achievements
