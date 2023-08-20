@@ -1,4 +1,5 @@
 # Elijah Wandimi
+Based in: Nairobi, Kenya<br>
  info.elijahwandimi@gmail.com  &emsp;|&emsp;  https://www.linkedin.com/in/ElijahWandimi/  &emsp;|&emsp;  https://twitter.com/elijahwandimi
  
 ---
