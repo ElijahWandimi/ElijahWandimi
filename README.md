@@ -26,6 +26,16 @@ Python, Java, SQL &emsp;|&emsp; Mongo, BigQuery, PostgresSql &emsp;|&emsp; DBT &
  Apache Spark &emsp;|&emsp; Spring, Spring Boot
 
 ---
+
+#### Volunteering
+Zindi Africa Campus Ambassador &emsp;-&emsp; 2022 - 2023 <br>
+Multimedia University of Kenya
+
+GDSC Lead &emsp;-&emsp; 2021–2022 <br>
+Multimedia University of Kenya
+
+---
+
 #### Achievements
 2nd Winning solution for Kenya SL Recognition and Translation &emsp;|&emsp; Zindi Africa and Jenga School &emsp;|&emsp; Nov 2022
 
