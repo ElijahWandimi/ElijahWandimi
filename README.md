@@ -22,9 +22,20 @@ response time by 3%. <br>
 *Tools used: Java spring boot, and Angular (Typescript)* <br>
 
 ---
-#### Languages and tools:
-Python, Java, SQL &emsp;|&emsp; Mongo, BigQuery, PostgresSql &emsp;|&emsp; DBT &emsp;|&emsp; Apache Airflow, Mage.ai &emsp;|&emsp; Excel, Tableau, Looker, &emsp;|&emsp; Docker, &emsp;|&emsp;
- Apache Spark &emsp;|&emsp; Spring, Spring Boot
+
+#### Education
+BSc Computer Science, Software engineering  &emsp;|&emsp; Multimedia University of Kenya &emsp;|&emsp; September 2019 - April 2023 <br>
+- Focus mainly in ; Mathematics (Linear Algebra, Calculus, Probability and statistics), Machine learning, Distributed systems, Algorithms and Analysis of algorithms, <br>
+OOP, Computation, Languages and Automata <br>
+- Activities : Program Manager, CIT Club MMU
+
+---
+#### Skills:
+##### Languages: Python, Java, SQL
+##### Databases(storage): Mongo, BigQuery, PostgresSql
+##### Tools: DBT, Apache Airflow, Mage, Excel, Tableau, Looker, 
+##### Frameworks:  Apache Spark, Spring, Spring Boot
+##### Containers: Docker
 
 ---
 
