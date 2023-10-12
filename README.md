@@ -13,7 +13,7 @@ Software engineer who loves building backend systems, mostly data, and AI-based 
 ---
 #### Experience
 
-#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - Septemner 2023 <br>
+#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - September 2023 <br>
 
 - Defined software specification from user requirements reducing design and development time. <br>
 - Developed and optimized a service layer method to automate the logging of session experiences in the application backend, enhancing data capture accuracy and user insights. <br>
