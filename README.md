@@ -13,7 +13,7 @@ Software engineer who loves building backend systems, mostly data, and AI-based 
 ---
 #### Experience
 
-#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - present <br>
+#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - Septemner 2023 <br>
 
 - Defined software specification from user requirements reducing design and development time. <br>
 - Developed and optimized a service layer method to automate the logging of session experiences in the application backend, enhancing data capture accuracy and user insights. <br>
@@ -32,11 +32,11 @@ OOP, Computation, Languages and Automata <br>
 
 ---
 #### Skills:
-##### Languages: Python, Java, SQL
-##### Databases(storage): Mongo, BigQuery, PostgresSql, Snowflake
-##### Tools: DBT, Apache Airflow, Excel, Tableau, Looker, GCP, AWS
-##### Frameworks:  Apache Spark, Spring, Spring Boot, Pytorch
-##### Containers: Docker
+Python, Java, SQL <br>
+Mongo, BigQuery, PostgresSql, Snowflake <br>
+DBT, Apache Airflow, Excel, Tableau, Looker, GCP, AWS <br>
+Apache Spark, Spring, Spring Boot, Pytorch <br>
+Docker
 
 ---
 
