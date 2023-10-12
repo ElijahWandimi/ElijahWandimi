@@ -34,7 +34,7 @@ OOP, Computation, Languages and Automata <br>
 #### Skills:
 Python, Java, SQL <br>
 Mongo, BigQuery, PostgresSql, Snowflake <br>
-DBT, Apache Airflow, Excel, Tableau, Looker, GCP, AWS <br>
+DBT, Apache Airflow, Kafka, Excel, Tableau, Looker, GCP, AWS <br>
 Apache Spark, Spring, Spring Boot, Pytorch <br>
 Docker
 
