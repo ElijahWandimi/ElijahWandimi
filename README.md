@@ -1,6 +1,7 @@
 # Elijah Wandimi
 Based in: Nairobi, Kenya<br>
- info.elijahwandimi@gmail.com  &emsp;|&emsp;  https://www.linkedin.com/in/ElijahWandimi/  &emsp;|&emsp;  https://twitter.com/elijahwandimi
+ info.elijahwandimi@gmail.com  &emsp;|&emsp;  https://www.datascienceportfol.io/ElijahWandimi <br>
+ https://www.linkedin.com/in/ElijahWandimi/  &emsp;|&emsp;  https://twitter.com/elijahwandimi  
  
 ---
 
@@ -32,9 +33,9 @@ OOP, Computation, Languages and Automata <br>
 ---
 #### Skills:
 ##### Languages: Python, Java, SQL
-##### Databases(storage): Mongo, BigQuery, PostgresSql
-##### Tools: DBT, Apache Airflow, Mage, Excel, Tableau, Looker, 
-##### Frameworks:  Apache Spark, Spring, Spring Boot
+##### Databases(storage): Mongo, BigQuery, PostgresSql, Snowflake
+##### Tools: DBT, Apache Airflow, Excel, Tableau, Looker, GCP, AWS
+##### Frameworks:  Apache Spark, Spring, Spring Boot, Pytorch
 ##### Containers: Docker
 
 ---
