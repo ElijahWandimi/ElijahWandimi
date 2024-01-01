@@ -1,7 +1,7 @@
 # Elijah Wandimi
 Based in: Nairobi, Kenya<br>
  info.elijahwandimi@gmail.com  &emsp;|&emsp;  https://www.datascienceportfol.io/ElijahWandimi <br>
- https://www.linkedin.com/in/ElijahWandimi/  &emsp;|&emsp;  https://twitter.com/elijahwandimi  
+ https://www.linkedin.com/in/ElijahWandimi/  &emsp;|&emsp;  https://twitter.com/elijah_wandimi  
  
 ---
 
