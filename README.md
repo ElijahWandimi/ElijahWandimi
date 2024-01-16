@@ -13,6 +13,11 @@ Software engineer who loves building backend systems, mostly data, and AI-based 
 ---
 #### Experience
 
+#### Machine Learning engineer  &emsp;|&emsp; Omdena, Romania Chapter, &emsp;|&emsp; Dec 2023 - present <br>
+##### Combating deforestation using Machine learning in Romania
+- Machine learning experimentation to build models that can recognise licence plates and estimate volume of wood load via vision. <br>
+
+
 #### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - September 2023 <br>
 
 - Defined software specification from user requirements reducing design and development time. <br>
