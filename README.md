@@ -13,7 +13,11 @@ Software engineer who loves building backend systems, mostly data, and AI-based 
 ---
 #### Experience
 
-#### Machine Learning engineer  &emsp;|&emsp; Omdena, Romania Chapter, &emsp;|&emsp; Dec 2023 - present <br>
+#### Software engineer       &emsp;|&emsp; Vertex Hub Group &emsp;|&emsp; Feb 2024 - present <br>
+
+- Build backend systems for financial providers reducing service time by 54%.
+
+#### Machine Learning engineer (Volunteer)  &emsp;|&emsp; Omdena, Romania Chapter, &emsp;|&emsp; Dec 2023 - April 2024 <br>
 ##### Combating deforestation using Machine learning in Romania
 - Machine learning experimentation to build models that can recognise licence plates and estimate volume of wood load via vision. <br>
 
