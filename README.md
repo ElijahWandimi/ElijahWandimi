@@ -8,7 +8,7 @@ Based in: Nairobi, Kenya<br>
 A data analyst with a strong work ethic and strong foundation in data analysis techniques and tools, combined with a passion for extracting insights from complex data sets. 
 With experience in statistical analysis, data visualisation, Python and SQL, I have the ability to collect, clean and transform data into
 meaningful business insights.
-Software engineer who loves building backend systems, mostly data, and AI-based systems.
+Software engineer who loves building high performant, scalable and highly available concurrent backend systems, and AI-based systems.
 
 ---
 #### Experience
