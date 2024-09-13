@@ -13,7 +13,7 @@ Software engineer who loves building backend systems, mostly data, and AI-based 
 ---
 #### Experience
 
-#### Software engineer       &emsp;|&emsp; Vertex Hub Group &emsp;|&emsp; Feb 2024 - present <br>
+#### Software engineer       &emsp;|&emsp; Vertex Hub Group &emsp;|&emsp; January 2024 - present <br>
 
 - Build backend systems for financial providers reducing service time by 54%.
 
@@ -22,7 +22,7 @@ Software engineer who loves building backend systems, mostly data, and AI-based 
 - Machine learning experimentation to build models that can recognise licence plates and estimate volume of wood load via vision. <br>
 
 
-#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - September 2023 <br>
+#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - December 2023 <br>
 
 - Defined software specification from user requirements reducing design and development time. <br>
 - Developed and optimized a service layer method to automate the logging of session experiences in the application backend, enhancing data capture accuracy and user insights. <br>
@@ -41,9 +41,9 @@ OOP, Computation, Languages and Automata <br>
 
 ---
 #### Skills:
-Python, Java, SQL <br>
-Mongo, BigQuery, PostgresSql, Snowflake <br>
-DBT, Apache Airflow, Kafka, Excel, Tableau, Looker, GCP, AWS <br>
+Python, Java, SQL, C/C++, PHP <br>
+Mongo, BigQuery, PostgresSql, Snowflake, Redis <br>
+DBT, Apache Airflow, Kafka, Excel, Tableau, Looker, GCP, AWS, Flink <br>
 Apache Spark, Spring, Spring Boot, Pytorch <br>
 Docker
 
