@@ -1,35 +1,25 @@
 # Elijah Wandimi
-Based in: Nairobi, Kenya<br>
- info.elijahwandimi@gmail.com  &emsp;|&emsp;  https://elijahwandimi.github.io/ <br>
- https://www.linkedin.com/in/elijah-wandimi/  &emsp;|&emsp;  https://twitter.com/elijah_wandimi  
+Based somewhere in Nairobi; availbe remotely though <br>
+ info.elijahwandimi@gmail.com  &emsp;|&emsp;  https://elijahwandimi.github.io/ &emsp;|&emsp; https://www.linkedin.com/in/elijah-wandimi/  &emsp;|&emsp;  https://twitter.com/elijah_wandimi  
  
 ---
-
-A data analyst with a strong work ethic and strong foundation in data analysis techniques and tools, combined with a passion for extracting insights from complex data sets. 
-With experience in statistical analysis, data visualisation, Python and SQL, I have the ability to collect, clean and transform data into
-meaningful business insights.
-Software engineer who loves building high performant, scalable and highly available concurrent backend systems, and AI-based systems.
+Software engineer who loves building high performant, scalable and reliable concurrent backend systems. Also plays chess and reads lots of books (maths and science)
 
 ---
+
+#### Skills:
+Golang, Java, Python, SQL, C/C++ &emsp;|&emsp; MySQL, PostgresSql, Snowflake, Redis &emsp;|&emsp; RabbitMQ, Kafka, GCP, AWS, Flink, Docker
+
+---
+
 #### Experience
 
-#### Software engineer       &emsp;|&emsp; Vertex Hub Group &emsp;|&emsp; January 2024 - present <br>
+#### 3. Software engineer       &emsp;|&emsp; Vertex Hub Group &emsp;|&emsp; January 2024 - present <br>
 
-- Build backend systems for financial providers reducing service time by 54%.
+#### 2. Machine Learning engineer (Volunteer)  &emsp;|&emsp; Omdena, Romania Chapter, &emsp;|&emsp; Dec 2023 - April 2024 <br>
+Combating deforestation using Machine learning in Romania
 
-#### Machine Learning engineer (Volunteer)  &emsp;|&emsp; Omdena, Romania Chapter, &emsp;|&emsp; Dec 2023 - April 2024 <br>
-##### Combating deforestation using Machine learning in Romania
-- Machine learning experimentation to build models that can recognise licence plates and estimate volume of wood load via vision. <br>
-
-
-#### Software engineer  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - December 2023 <br>
-
-- Defined software specification from user requirements reducing design and development time. <br>
-- Developed and optimized a service layer method to automate the logging of session experiences in the application backend, enhancing data capture accuracy and user insights. <br>
-- Collaborated closely with cross-functional teams to analyze performance bottlenecks, identify areas for improvement, and implement strategic enhancements improving
-response time by 3%. <br>
-- Documented the implementation process, providing clear guidelines for future maintenance and troubleshooting. <br>
-*Tools used: Java spring boot, and Angular (Typescript)* <br>
+#### 1. Software engineer (intern)  &emsp;|&emsp; Meliora Technologies, &emsp;|&emsp; June 2023 - December 2023 <br>
 
 ---
 
@@ -39,15 +29,6 @@ BSc Computer Science, Software engineering  &emsp;|&emsp; Multimedia University 
 OOP, Computation, Languages and Automata <br>
 - Activities : Program Manager, CIT Club MMU
 
----
-#### Skills:
-Python, Java, SQL, C/C++, PHP <br>
-Mongo, BigQuery, PostgresSql, Snowflake, Redis <br>
-DBT, Apache Airflow, Kafka, Excel, Tableau, Looker, GCP, AWS, Flink <br>
-Apache Spark, Spring, Spring Boot, Pytorch <br>
-Docker
-
----
 
 #### Volunteering
 Zindi Africa Campus Ambassador &emsp;-&emsp; 2022 - 2023 <br>
